@@ -1,0 +1,8 @@
+S1_F_summary_file<-read.delim("/Users/ahrim/Desktop/LAB/Output/rMATs/S1_F/summary.txt", sep = "\t", dec = ".", header = TRUE)
+S3_F_summary_file<-read.delim("/Users/ahrim/Desktop/LAB/Output/rMATs/S3_F/summary.txt", sep = "\t", dec = ".", header = TRUE)
+S3_M_summary_file<-read.delim("/Users/ahrim/Desktop/LAB/Output/rMATs/S3_M/summary.txt", sep = "\t", dec = ".", header = TRUE)
+S4_F_summary_file<-read.delim("/Users/ahrim/Desktop/LAB/Output/rMATs/S4_F/summary.txt", sep = "\t", dec = ".", header = TRUE)
+S4_M_summary_file<-read.delim("/Users/ahrim/Desktop/LAB/Output/rMATs/S4_M/summary.txt", sep = "\t", dec = ".", header = TRUE)
+S6_7_F_summary_file<-read.delim("/Users/ahrim/Desktop/LAB/Output/rMATs/S6_7_F/summary.txt", sep = "\t", dec = ".", header = TRUE)
+S6_7_M_summary_file<-read.delim("/Users/ahrim/Desktop/LAB/Output/rMATs/S6_7_M/summary.txt", sep = "\t", dec = ".", header = TRUE)
+View(S6_7_M_summary_file)
